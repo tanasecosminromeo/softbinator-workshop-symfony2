@@ -1,0 +1,7 @@
+1. Install Docker & Docker-Compose
+2. symfony new . 2.8
+3. configure db
+4. php ./app/check.php
+5. configure app/config/parameters.yml
+6. rm -rf app/cache/* && chmod 777 app/cache
+6. rm -rf app/logs/* && chmod 777 app/logs
